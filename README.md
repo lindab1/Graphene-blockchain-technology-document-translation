@@ -1,10 +1,7 @@
 # Graphene-blockchain-technology-document-translation
 石墨烯技术文档翻译，包括但不限于how.bitshares.works, dev.bitshares.works, BSIP等内容
-# Graphene-blockchain-technology-document-translation
-石墨烯技术文档翻译，包括但不限于how.bitshares.works, dev.bitshares.works, BSIP等内容
 
-
-
+wiki中有专业术语表
 高质量的译者直接给予编辑权限，协助发起人管理项目。与发起人一起成为翻译的组织者。
 
 普通的译者领取任务 fork，翻译完后 push request。翻译组织者审校提交的译文，如果通过则 merge。
